@@ -6,6 +6,8 @@
 //  Copyright © 2020 TAN, ADAM (Student). All rights reserved.
 //
 
+//HOW EVERYTHING LOOKED LIKE BEFORE CHANGING IDEAS
+
 import CoreMotion
 import SpriteKit
 import GameplayKit
